@@ -1,0 +1,91 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    background-color: rgb(58, 175, 201);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
+      
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    
+}
+img{
+    height: 300px;
+    width: 400px;
+    margin: 2px;
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  rgb(58, 175, 201);
+    color: azure;
+    
+}
+a{
+    color: azure;
+}
+
+h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  rgb(58, 175, 201);
+    color: azure;
+    margin: 0;
+    opacity: 0.7;
+    
+}
+.bigpic{
+   height: 400px;
+   width: 500px;
+}
+li{
+    display: flex;
+    
+    
+
+}
+body{
+ 
+    background-color: aliceblue;
+}
+pre{
+    display: flex;
+    color: azure;
+    font-size:x-large;
+    
+    padding: 0;
+    margin-top: 10rem;
+    margin-bottom: 14rem;
+    outline: 0;
+    border:0;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size:large;
+    background-color:   rgb(58, 175, 201);
+    opacity: 0.7;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border: 0;
+
+}
+
+
+  
+  .infotext{
+    color:  rgb(58, 175, 201);
+  }
+    
+
